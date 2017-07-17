@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/ReceptionistRole/PatientListJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/SystemAdminRole/SystemAdminWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/DoctorRole/RequestLabTestJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/DoctorRole/PatientReportJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/NurseRole/ViewVitalSignHistoryJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/ReceptionistRole/RequestAppointmentJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/MayorRole/MayorWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/DoctorRole/VitalSignHistoryJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/PharmacistRole/AddNewDrugsJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/PharmacistRole/ViewDrugsJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/PatientRole/PatientWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/Business/Organization/Organization.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/PharmacistRole/PharmacistWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/DoctorRole/DoctorWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/NurseRole/ViewDetailsJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/DoctorRole/CheckAvailabilityJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/ReceptionistRole/ReceptionistWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/PatientRole/ViewRecentReportJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/AdministrativeRole/AdminWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/PatientRole/RequestAppointmentJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/ReceptionistRole/DoctorListJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/NurseRole/LabWorkRequestJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/ReceptionistRole/CreatePatientJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/ReceptionistRole/ViewNotificationsJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/ReceptionistRole/ViewPatientDetailsJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/MayorRole/ViewAQHistoryJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/PatientRole/EnterDetailsJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/NurseRole/MonitorVitalSignsJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/NurseRole/NurseWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/Pamnani/Documents/NetBeansProjects/HealthCareSupportSystem/src/UserInterface/DoctorRole/EnterOrViewDetailsJPanel.java</file>
+        </group>
+    </open-files>
+</project-private>

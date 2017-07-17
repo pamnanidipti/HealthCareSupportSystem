@@ -1,0 +1,17 @@
+s1,s2,Disease,Medication
+Cold,Constipation,Bursitis,Nexium
+Cold,Fever,Candidiasis,Humira
+Cold,Indigestion,Influenza,Crestor
+Cold,Jointpain,Edema,Advair
+Cold,Heartburn,Histoplasmosis,Diskus
+Constipation,Fever,Measles,Enbrel
+Constipation,Indigestion,Cough,Remicade
+Constipation,Jointpain,Erythema,Neulasta
+Constipation,Heartburn,Diarrhea,Copaxone
+Fever,Indigestion,Food Poisoning,Cymbalta
+Fever,Jointpain,Miscarriage,Rituxan
+Fever,Heartburn,Ulcerative Colitis,Spiriva
+Indigestion,Jointpain,Rubella,Handihaler
+Indigestion,Heartburn,Prostatitis,Januvia
+Jointpain,Heartburn,Tuberculosis,Atripla
+
